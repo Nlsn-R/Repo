@@ -1,3 +1,3 @@
 Prefacio:
 
-	Este es el prefacio al libro titulado "proyecto uno"..
+	Este es el prefacio al libro titulado "Proyecto 1". Este proyecto tiene el unico fin de servir como practica del uso de git, github y vim.
